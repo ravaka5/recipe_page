@@ -15,8 +15,8 @@ This is a html css for the fourth project in the first learning path frontend Me
 
 ### Screenshot
 
-![screen](./capture1.png)
 ![screen](./capture2.png)
+![screen](./capture1.png)
 
 ### Links
 
